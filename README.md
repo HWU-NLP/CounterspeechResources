@@ -1,7 +1,9 @@
 # CounterspeechResources
 Systematic review records for the paper "Can NLP Tackle Hate Speech in the Real World? Stakeholder-Informed Feedback and Survey on Counterspeech"
 
-If you use this data, please cite the corresponding paper:
+## 📜 Citation
+
+⚠️ If you use this data, please cite the corresponding paper:
 
 **Can NLP Tackle Hate Speech in the Real World? Stakeholder-Informed Feedback and Survey on Counterspeech.**  
 *Tanvi Dinkar, Aiqi Jiang, Simona Frenda, Poppy Gerrard-Abbott, Nancie Gunson, Gavin Abercrombie, and Ioannis Konstas*  
